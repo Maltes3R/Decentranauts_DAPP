@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA38222aBe63cAA18eFd027F366d3e6968D8be9f3",
+  "SCAN_LINK": "https://polygonscan.com/token/0xA38222aBe63cAA18eFd027F366d3e6968D8be9f3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Decentranauts",
+  "SYMBOL": "DECNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/decentranauts",
+  "SHOW_BACKGROUND": true
+}
